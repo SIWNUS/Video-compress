@@ -1,7 +1,7 @@
 import os
 
-path = "/gdrive/MyDrive/Angel"#@param{type:"string"}
-file_type = 'mkv' #@param ["mkv", "mp4"]
+path = "Enter video folder path"#@param{type:"string"}
+file_type = 'Enter video type' #@param ["mkv", "mp4"]
 
 my_list = []
 
